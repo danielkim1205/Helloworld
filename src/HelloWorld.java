@@ -1,3 +1,7 @@
+/**
+ * I fixed a bug
+ */
+
 import java.util.Scanner;
 
 public class HelloWorld {
